@@ -4,6 +4,19 @@ A mini-project exploring the impact of feature scaling on logistic regression pe
 
 ---
 
+### Core Tech Stack - Role & Purpose
+
+- **NumPy (Foundation for Numerical Computing)** Provides high-performance multidimensional array objects and tools for working with them. It is the "engine" that allows Python to handle massive datasets with mathematical efficiency.
+- **scikit-learn (Machine Learning Toolkit)** A robust library for predictive data analysis. Built on NumPy, it provides simple and efficient tools for data mining and data analysis.
+- **Matplotlib (Data Visualization Standard)** A comprehensive library for creating static, animated, and interactive visualizations in Python. It turns complex data into readable charts and graphs.
+
+### Core Tech Stack - Key Uses
+
+- **NumPy** Linear algebra, Fourier transforms, and random number generation.
+- **scikit-learn** Classification (Spam detection), Regression (Stock prediction), and Clustering (Customer segmentation).
+- **Matplotlib** Scatter plots, histograms, error charts, and bar charts.
+---
+
 ## Objective
 
 Demonstrate how different scaling strategies affect:
