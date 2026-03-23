@@ -1,10 +1,10 @@
-# 🧪 ML Data Preprocessing — Étude comparative du scaling
+# ML Data Preprocessing — Étude comparative du scaling
 
 A mini-project exploring the impact of feature scaling on logistic regression performance, using the **Breast Cancer Wisconsin** dataset from scikit-learn.
 
 ---
 
-## 📌 Objective
+## Objective
 
 Demonstrate how different scaling strategies affect:
 - Model **accuracy** (5-fold cross-validation)
@@ -27,7 +27,7 @@ ml-data-preprocessing/
 
 ---
 
-## 🔬 Experiment — 4 Scaling Scenarios
+## Experiment — 4 Scaling Scenarios
 
 All scenarios use `LogisticRegression(max_iter=1000)` evaluated with 5-fold cross-validation.
 
